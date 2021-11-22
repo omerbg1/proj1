@@ -1,5 +1,7 @@
 # proj1 is the first project by Omer
 
+please run `python main.py`
+
 adding some stuff here
 
 - bullet 1
@@ -10,3 +12,5 @@ adding some stuff here
 > 
 
 and more stuff here
+
+
